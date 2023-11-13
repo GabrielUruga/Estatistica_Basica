@@ -1,2 +1,3 @@
-# Statistics and Data Science
-Esse repositório apresenta alguns projetos que envolvem conceitos básicos de Estatística e cálculos utilizados em Análise Estatística e Data Science. /This repository presents some projects that involve basic concepts of Statistics and calculations used in Statistical Analysis and Data Science. 
+# Estatística Básica para Data Science
+
+Neste repositório é apresentado como calcular medidas de tendência central e de dispersão, que tem uma grande importânica no mundo da Ciência de Dados, como a Média, Mediana, Moda e Desvio Padrão com a biblioteca NumPy (Numerical Python).Uma base de dados com valores fictícios do desempenhho de uma sala nas avaliações semestrais foi utilizada com a finalidade de apresentar como realizar os cálculos dessas medidas estatísticas.
